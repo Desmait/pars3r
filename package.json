@@ -1,0 +1,16 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "JavaScript example starter project",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "cheerio": "1.0.0-rc.5"
+  },
+  "devDependencies": {},
+  "keywords": ["javascript", "starter"]
+}
